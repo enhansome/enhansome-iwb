@@ -1,7 +1,119 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "该类别下的项目不会在 Awesome-Iwb 中展示，点击名称中的超链接可直接跳转到对应的 Github 仓库地址。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SeewoKiller",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 844025870,
+            "language": "C++",
+            "last_commit": "2026-08-21T11:02:08Z",
+            "owner": "whstu",
+            "repo": "SeewoKiller",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seewo_jailbreak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 908912882,
+            "language": "Python",
+            "last_commit": "2024-12-27T09:55:04Z",
+            "owner": "CatMe0w",
+            "repo": "seewo_jailbreak",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "希沃管家密码 V2 破解(seewoaprt)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 837493968,
+            "language": "Kotlin",
+            "last_commit": "2025-03-16T11:30:01Z",
+            "owner": "gohj99",
+            "repo": "seewoaprt",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seewo-Activation-Code-Calculator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 823028125,
+            "language": "JavaScript",
+            "last_commit": "2024-07-03T06:33:35Z",
+            "owner": "f4bb0",
+            "repo": "Seewo-Activation-Code-Calculator",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LemonxNote",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 794428254,
+            "language": "C++",
+            "last_commit": "2025-03-08T10:42:02Z",
+            "owner": "lh11117",
+            "repo": "LemonxNote",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "灵动课表",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663095446,
+            "language": "Python",
+            "last_commit": "2024-04-05T12:11:11Z",
+            "owner": "DuguSand",
+            "repo": "class_form",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeewoHUB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 871168953,
+            "language": "C#",
+            "last_commit": "2026-02-10T13:40:37Z",
+            "owner": "CNwenwen",
+            "repo": "SeewoHUB",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "..."
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T15:57:51.735Z",
+    "last_updated": "2026-08-24T14:22:14.096Z",
     "original_repository": "awesome-iwb/awesome-iwb",
     "original_repository_id": 849179680,
     "original_repository_sha": "9d1f9f41cf3642166b6bdaf63b04fef2eeef1026",
