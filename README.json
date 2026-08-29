@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "希沃克星Seewo Killer：冰点破解、锁屏破解、游戏和制裁！",
+            "homepage": "https://whstu.dpdns.org/download/seewokiller/",
             "id": 844025870,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T11:02:08Z",
+            "open_issues": 0,
             "owner": "whstu",
             "repo": "SeewoKiller",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "c",
+              "seewo",
+              "seewofreeze"
+            ]
           },
           "first_seen": "2026-08-29T00:07:08.116Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defuse Seewo's PASSWORDV3 | 解除希沃 PASSWORDV3 管理员密码",
+            "homepage": null,
             "id": 908912882,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-27T09:55:04Z",
+            "open_issues": 1,
             "owner": "CatMe0w",
             "repo": "seewo_jailbreak",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:08.116Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "希沃密码破解工具",
+            "homepage": null,
             "id": 837493968,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-16T11:30:01Z",
+            "open_issues": 1,
             "owner": "gohj99",
             "repo": "seewoaprt",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:08.116Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "希沃扫码解锁工具，从二维码到激活码一键解锁电子白板。基于js，本地运行，无需联网。",
+            "homepage": "https://seewo.fabbo.top/",
             "id": 823028125,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-03T06:33:35Z",
+            "open_issues": 0,
             "owner": "f4bb0",
             "repo": "Seewo-Activation-Code-Calculator",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:08.116Z"
         },
@@ -74,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "柠檬白板",
+            "homepage": "https://lh11117.github.io/LemonxNote/",
             "id": 794428254,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-08T10:42:02Z",
+            "open_issues": 0,
             "owner": "lh11117",
             "repo": "LemonxNote",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:08.116Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An automatic window to show classes",
+            "homepage": null,
             "id": 663095446,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-05T12:11:11Z",
+            "open_issues": 5,
             "owner": "DuguSand",
             "repo": "class_form",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:08.116Z"
         },
@@ -106,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hub for Seewo Board.",
+            "homepage": null,
             "id": 871168953,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-02-10T13:40:37Z",
+            "open_issues": 0,
             "owner": "CNwenwen",
             "repo": "SeewoHUB",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:08.116Z"
         }
@@ -120,15 +159,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:07:08.116Z",
+    "last_updated": "2026-08-29T04:41:08.522Z",
     "original_repository_info": {
       "archived": false,
+      "description": "✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级一体机新玩法！ --- ✨ Useful Open-Sources Softwares & Tutorials for Iwb Devices (Bytello/MAXHUB/HiteVision)",
+      "homepage": "https://aiwb.smart-teach.cn/",
       "id": 849179680,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-06-07T03:13:07Z",
+      "open_issues": 1,
       "owner": "awesome-iwb",
       "repo": "awesome-iwb",
-      "stars": 544
+      "stars": 544,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "boe",
+        "chinese",
+        "chinese-simplified",
+        "donview",
+        "easinote",
+        "hitevision",
+        "ink",
+        "ink-canvas",
+        "inkore",
+        "iwb",
+        "notes-app",
+        "school",
+        "seewo",
+        "utilities",
+        "whiteboard"
+      ]
     },
     "original_repository_sha": "9d1f9f41cf3642166b6bdaf63b04fef2eeef1026",
     "enhanced_repository": "enhansome/enhansome-iwb",
