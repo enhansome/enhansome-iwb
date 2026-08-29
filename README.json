@@ -15,8 +15,9 @@
             "last_commit": "2026-08-21T11:02:08Z",
             "owner": "whstu",
             "repo": "SeewoKiller",
-            "stars": 33
-          }
+            "stars": 34
+          },
+          "first_seen": "2026-08-29T00:07:08.116Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "CatMe0w",
             "repo": "seewo_jailbreak",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:07:08.116Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "gohj99",
             "repo": "seewoaprt",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:07:08.116Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "f4bb0",
             "repo": "Seewo-Activation-Code-Calculator",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:07:08.116Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "lh11117",
             "repo": "LemonxNote",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:07:08.116Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "DuguSand",
             "repo": "class_form",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T00:07:08.116Z"
         },
         {
           "node_type": "item",
@@ -106,14 +112,15 @@
             "owner": "CNwenwen",
             "repo": "SeewoHUB",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:07:08.116Z"
         }
       ],
       "title": "..."
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:36:06.723Z",
+    "last_updated": "2026-08-29T00:07:08.116Z",
     "original_repository_info": {
       "archived": false,
       "id": 849179680,
