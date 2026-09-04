@@ -159,7 +159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:52:45.073Z",
+    "last_updated": "2026-09-04T18:33:39.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级一体机新玩法！ --- ✨ Useful Open-Sources Softwares & Tutorials for Iwb Devices (Bytello/MAXHUB/HiteVision)",
@@ -168,10 +168,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-06-07T03:13:07Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "awesome-iwb",
       "repo": "awesome-iwb",
-      "stars": 543,
+      "stars": 544,
       "topics": [
         "awesome",
         "awesome-list",
