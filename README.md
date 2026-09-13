@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,384 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,684 | 🐛 106 | 📅 2026-09-02
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
@@ -418,16 +418,16 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 ![banner](https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/cover2.png#gh-light-mode-only)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
-[![stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?style=flat\&color=red)](https://github.com/Alan-CRL/Inkeys/stargazers) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
-[![forks](https://img.shields.io/github/forks/Alan-CRL/Inkeys?style=flat\&color=blue)](https://github.com/Alan-CRL/Inkeys/forks) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
-[![Watchers](https://img.shields.io/github/watchers/Alan-CRL/Inkeys?style=flat\&color=green)](https://github.com/Alan-CRL/Inkeys/watchers) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
-[![Downloads](https://img.shields.io/github/downloads/Alan-CRL/Inkeys/total?style=flat\&logo=github)](https://github.com/Alan-CRL/Inkeys/releases) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Alan-CRL/Inkeys?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/Alan-CRL/Inkeys/issues) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
-[![GitHub Discussions](https://img.shields.io/github/discussions/Alan-CRL/Inkeys?style=flat)](https://github.com/Alan-CRL/Inkeys/discussions) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
-[![Created At](https://img.shields.io/github/created-at/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys/commits/master) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-12
+[![stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?style=flat\&color=red)](https://github.com/Alan-CRL/Inkeys/stargazers) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
+[![forks](https://img.shields.io/github/forks/Alan-CRL/Inkeys?style=flat\&color=blue)](https://github.com/Alan-CRL/Inkeys/forks) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
+[![Watchers](https://img.shields.io/github/watchers/Alan-CRL/Inkeys?style=flat\&color=green)](https://github.com/Alan-CRL/Inkeys/watchers) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
+[![Downloads](https://img.shields.io/github/downloads/Alan-CRL/Inkeys/total?style=flat\&logo=github)](https://github.com/Alan-CRL/Inkeys/releases) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Alan-CRL/Inkeys?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/Alan-CRL/Inkeys/issues) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
+[![GitHub Discussions](https://img.shields.io/github/discussions/Alan-CRL/Inkeys?style=flat)](https://github.com/Alan-CRL/Inkeys/discussions) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
+[![Created At](https://img.shields.io/github/created-at/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys/commits/master) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys) ⭐ 1,167 | 🐛 44 | 🌐 C++ | 📅 2026-09-13
 ![GitHub License](https://img.shields.io/github/license/Alan-CRL/Inkeys?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20618720802-white?style=flat\&logo=qq)](https://qm.qq.com/cgi-bin/qm/qr?k=9V2l83dc0yP4UYeDF-NkTX0o7_TcYqlh\&jump_from=webapi\&authKey=LsLLUhb1KSzHYbc8k5nCQDqTtRcRUCEE3j+DdR9IgHaF/7JF7LLpY191hsiYEBz6)
 
@@ -484,16 +484,16 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 ![banner](https://github.com/user-attachments/assets/598634da-dec5-473c-9765-ce8dcb3a3f76)
 
 ![New!](https://img.shields.io/badge/新项目-blue)
-[![stars](https://img.shields.io/github/stars/InkCanvasForClass/community?style=flat\&color=red)](https://github.com/InkCanvasForClass/community/stargazers) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
-[![forks](https://img.shields.io/github/forks/InkCanvasForClass/community?style=flat\&color=blue)](https://github.com/InkCanvasForClass/community/forks) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
-[![Watchers](https://img.shields.io/github/watchers/InkCanvasForClass/community?style=flat\&color=green)](https://github.com/InkCanvasForClass/community/watchers) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
-[![Downloads](https://img.shields.io/github/downloads/InkCanvasForClass/community/total?style=flat\&logo=github)](https://github.com/InkCanvasForClass/community/releases) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvasForClass/community?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/InkCanvasForClass/community/issues) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
-[![GitHub Discussions](https://img.shields.io/github/discussions/InkCanvasForClass/community?style=flat)](https://github.com/InkCanvasForClass/community/discussions) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
-[![创建d At](https://img.shields.io/github/created-at/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community/commits/master) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
-[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) ⭐ 159 | 🐛 18 | 🌐 C# | 📅 2026-09-06
+[![stars](https://img.shields.io/github/stars/InkCanvasForClass/community?style=flat\&color=red)](https://github.com/InkCanvasForClass/community/stargazers) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
+[![forks](https://img.shields.io/github/forks/InkCanvasForClass/community?style=flat\&color=blue)](https://github.com/InkCanvasForClass/community/forks) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
+[![Watchers](https://img.shields.io/github/watchers/InkCanvasForClass/community?style=flat\&color=green)](https://github.com/InkCanvasForClass/community/watchers) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
+[![Downloads](https://img.shields.io/github/downloads/InkCanvasForClass/community/total?style=flat\&logo=github)](https://github.com/InkCanvasForClass/community/releases) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvasForClass/community?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/InkCanvasForClass/community/issues) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
+[![GitHub Discussions](https://img.shields.io/github/discussions/InkCanvasForClass/community?style=flat)](https://github.com/InkCanvasForClass/community/discussions) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
+[![创建d At](https://img.shields.io/github/created-at/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community/commits/master) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
+[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) ⭐ 161 | 🐛 18 | 🌐 C# | 📅 2026-09-13
 ![GitHub License](https://img.shields.io/github/license/InkCanvasForClass/community?color=red)
 [![Discord](https://img.shields.io/discord/1383039050184917053?style=social\&label=Discord\&logo=discord)](https://discord.gg/ahj7eJWhEG)
 [![交流群](https://img.shields.io/badge/交流群%201054377349-white?style=flat\&logo=qq)](https://qm.qq.com/q/vno1nrxlf2)
@@ -607,16 +607,16 @@ InkCanvasForClass的readme仓库。
 
 ### ICC-Re
 
-[![stars](https://img.shields.io/github/stars/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat\&color=red)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/stargazers) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
-[![forks](https://img.shields.io/github/forks/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat\&color=blue)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/forks) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
-[![Watchers](https://img.shields.io/github/watchers/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat\&color=green)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/watchers) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
-[![Downloads](https://img.shields.io/github/downloads/LiuYan-xwx/InkCanvasForClass-Remastered/total?style=flat\&logo=github)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/releases) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/LiuYan-xwx/InkCanvasForClass-Remastered?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/issues) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
-[![GitHub Discussions](https://img.shields.io/github/discussions/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/discussions) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
-[![Created At](https://img.shields.io/github/created-at/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/commits/master) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
-[![GitHub Top Language](https://img.shields.io/github/languages/top/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-09
+[![stars](https://img.shields.io/github/stars/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat\&color=red)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/stargazers) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
+[![forks](https://img.shields.io/github/forks/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat\&color=blue)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/forks) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
+[![Watchers](https://img.shields.io/github/watchers/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat\&color=green)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/watchers) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
+[![Downloads](https://img.shields.io/github/downloads/LiuYan-xwx/InkCanvasForClass-Remastered/total?style=flat\&logo=github)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/releases) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/LiuYan-xwx/InkCanvasForClass-Remastered?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/issues) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
+[![GitHub Discussions](https://img.shields.io/github/discussions/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/discussions) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
+[![Created At](https://img.shields.io/github/created-at/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/commits/master) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
+[![GitHub Top Language](https://img.shields.io/github/languages/top/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered) ⭐ 10 | 🐛 7 | 🌐 C# | 📅 2026-09-13
 ![GitHub License](https://img.shields.io/github/license/LiuYan-xwx/InkCanvasForClass-Remastered?color=red)
 
 </div>
@@ -656,21 +656,21 @@ InkCanvasForClass-Remastered是由开发者 LiuYan-xwx 发起的一个开源教�
 
 ![banner](https://github.com/pubpub-zz/ppInk/raw/master/Animation.gif)
 
-[![stars](https://img.shields.io/github/stars/pubpub-zz/ppInk?style=flat\&color=red)](https://github.com/pubpub-zz/ppInk/stargazers) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
-[![forks](https://img.shields.io/github/forks/pubpub-zz/ppInk?style=flat\&color=blue)](https://github.com/pubpub-zz/ppInk/forks) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
-[![Watchers](https://img.shields.io/github/watchers/pubpub-zz/ppInk?style=flat\&color=green)](https://github.com/pubpub-zz/ppInk/watchers) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
-[![Downloads](https://img.shields.io/github/downloads/pubpub-zz/ppInk/total?style=flat\&logo=github)](https://github.com/pubpub-zz/ppInk/releases) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/pubpub-zz/ppInk?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/pubpub-zz/ppInk/issues) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
-[![GitHub Discussions](https://img.shields.io/github/discussions/pubpub-zz/ppInk?style=flat)](https://github.com/pubpub-zz/ppInk/discussions) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
-[![Created At](https://img.shields.io/github/created-at/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19<br/>
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk/commits/master) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
-[![GitHub Language Count](https://img.shields.io/github/languages/count/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
-[![GitHub Top Language](https://img.shields.io/github/languages/top/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk) ⭐ 1,287 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![stars](https://img.shields.io/github/stars/pubpub-zz/ppInk?style=flat\&color=red)](https://github.com/pubpub-zz/ppInk/stargazers) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![forks](https://img.shields.io/github/forks/pubpub-zz/ppInk?style=flat\&color=blue)](https://github.com/pubpub-zz/ppInk/forks) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![Watchers](https://img.shields.io/github/watchers/pubpub-zz/ppInk?style=flat\&color=green)](https://github.com/pubpub-zz/ppInk/watchers) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![Downloads](https://img.shields.io/github/downloads/pubpub-zz/ppInk/total?style=flat\&logo=github)](https://github.com/pubpub-zz/ppInk/releases) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/pubpub-zz/ppInk?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/pubpub-zz/ppInk/issues) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![GitHub Discussions](https://img.shields.io/github/discussions/pubpub-zz/ppInk?style=flat)](https://github.com/pubpub-zz/ppInk/discussions) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![Created At](https://img.shields.io/github/created-at/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19<br/>
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk/commits/master) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![GitHub Language Count](https://img.shields.io/github/languages/count/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
+[![GitHub Top Language](https://img.shields.io/github/languages/top/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk) ⭐ 1,289 | 🐛 22 | 🌐 C# | 📅 2026-05-19
 ![GitHub License](https://img.shields.io/github/license/pubpub-zz/ppInk?color=red)
 
 </div>
 
-> <img src="./images/fork-icon.svg" width="18" height="18"/> forked from [geovens/gInk](https://github.com/geovens/gInk) ⭐ 2,588 | 🐛 123 | 🌐 C# | 📅 2025-02-11
+> <img src="./images/fork-icon.svg" width="18" height="18"/> forked from [geovens/gInk](https://github.com/geovens/gInk) ⭐ 2,590 | 🐛 123 | 🌐 C# | 📅 2025-02-11
 
 ppInk is a user-friendly on-screen annotation software for Windows, compatible with Mouse use, touchscreen or drawing tablet(also with pressure).
 
@@ -754,16 +754,16 @@ Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Window
 
 ### ShowWrite视频展台
 
-[![stars](https://img.shields.io/github/stars/SECTL/ShowWrite?style=flat\&color=red)](https://github.com/SECTL/ShowWrite/stargazers) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
-[![forks](https://img.shields.io/github/forks/SECTL/ShowWrite?style=flat\&color=blue)](https://github.com/SECTL/ShowWrite/forks) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
-[![Watchers](https://img.shields.io/github/watchers/SECTL/ShowWrite?style=flat\&color=green)](https://github.com/SECTL/ShowWrite/watchers) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
-[![Downloads](https://img.shields.io/github/downloads/SECTL/ShowWrite/total?style=flat\&logo=github)](https://github.com/SECTL/ShowWrite/releases) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/ShowWrite?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/SECTL/ShowWrite/issues) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
-[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/ShowWrite?style=flat)](https://github.com/SECTL/ShowWrite/discussions) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
-[![Created At](https://img.shields.io/github/created-at/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite/commits/master) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
-[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![stars](https://img.shields.io/github/stars/SECTL/ShowWrite?style=flat\&color=red)](https://github.com/SECTL/ShowWrite/stargazers) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![forks](https://img.shields.io/github/forks/SECTL/ShowWrite?style=flat\&color=blue)](https://github.com/SECTL/ShowWrite/forks) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![Watchers](https://img.shields.io/github/watchers/SECTL/ShowWrite?style=flat\&color=green)](https://github.com/SECTL/ShowWrite/watchers) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![Downloads](https://img.shields.io/github/downloads/SECTL/ShowWrite/total?style=flat\&logo=github)](https://github.com/SECTL/ShowWrite/releases) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/ShowWrite?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/SECTL/ShowWrite/issues) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/ShowWrite?style=flat)](https://github.com/SECTL/ShowWrite/discussions) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![Created At](https://img.shields.io/github/created-at/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite/commits/master) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-09-06
 ![GitHub License](https://img.shields.io/github/license/SECTL/ShowWrite?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201051061830-white?style=flat\&logo=qq)](https://qm.qq.com/q/nNpEuIVfwe)
 
@@ -862,16 +862,16 @@ ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支�
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
-[![stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat\&color=red)](https://github.com/ClassIsland/ClassIsland/stargazers) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
-[![forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat\&color=blue)](https://github.com/ClassIsland/ClassIsland/forks) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
-[![Watchers](https://img.shields.io/github/watchers/ClassIsland/ClassIsland?style=flat\&color=green)](https://github.com/ClassIsland/ClassIsland/watchers) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
-[![Downloads](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total?style=flat\&logo=github)](https://github.com/ClassIsland/ClassIsland/releases) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/ClassIsland/ClassIsland?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/ClassIsland/ClassIsland/issues) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
-[![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland?style=flat)](https://github.com/ClassIsland/ClassIsland/discussions) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
-[![Created At](https://img.shields.io/github/created-at/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland/commits/master) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
-[![GitHub Top Language](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07
+[![stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat\&color=red)](https://github.com/ClassIsland/ClassIsland/stargazers) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
+[![forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat\&color=blue)](https://github.com/ClassIsland/ClassIsland/forks) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
+[![Watchers](https://img.shields.io/github/watchers/ClassIsland/ClassIsland?style=flat\&color=green)](https://github.com/ClassIsland/ClassIsland/watchers) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
+[![Downloads](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total?style=flat\&logo=github)](https://github.com/ClassIsland/ClassIsland/releases) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ClassIsland/ClassIsland?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/ClassIsland/ClassIsland/issues) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
+[![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland?style=flat)](https://github.com/ClassIsland/ClassIsland/discussions) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
+[![Created At](https://img.shields.io/github/created-at/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland/commits/master) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07
 ![GitHub License](https://img.shields.io/github/license/ClassIsland/ClassIsland?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20958840932-white?style=flat\&logo=qq)](https://qm.qq.com/q/4NsDQKiAuQ)
 
@@ -1174,7 +1174,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 `Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI 库。
 
-**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/RinLit-233-shiroko/Class-Widgets-2) ⭐ 174 | 🐛 16 | 🌐 QML | 📅 2026-09-12**
+**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/RinLit-233-shiroko/Class-Widgets-2) ⭐ 176 | 🐛 18 | 🌐 QML | 📅 2026-09-13**
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
@@ -1704,22 +1704,22 @@ CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持
 
 ![banner](https://github.com/EnderWolf006/ElectronClassSchedule/raw/main/image%2FREADME%2Fview.png)
 
-[![stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?style=flat\&color=red)](https://github.com/EnderWolf006/ElectronClassSchedule/stargazers) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
-[![forks](https://img.shields.io/github/forks/EnderWolf006/ElectronClassSchedule?style=flat\&color=blue)](https://github.com/EnderWolf006/ElectronClassSchedule/forks) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
-[![Watchers](https://img.shields.io/github/watchers/EnderWolf006/ElectronClassSchedule?style=flat\&color=green)](https://github.com/EnderWolf006/ElectronClassSchedule/watchers) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
-[![Downloads](https://img.shields.io/github/downloads/EnderWolf006/ElectronClassSchedule/total?style=flat\&logo=github)](https://github.com/EnderWolf006/ElectronClassSchedule/releases) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/EnderWolf006/ElectronClassSchedule?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/EnderWolf006/ElectronClassSchedule/issues) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
-[![GitHub Discussions](https://img.shields.io/github/discussions/EnderWolf006/ElectronClassSchedule?style=flat)](https://github.com/EnderWolf006/ElectronClassSchedule/discussions) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
-[![Created At](https://img.shields.io/github/created-at/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule/commits/master) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
-[![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30
+[![stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?style=flat\&color=red)](https://github.com/EnderWolf006/ElectronClassSchedule/stargazers) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
+[![forks](https://img.shields.io/github/forks/EnderWolf006/ElectronClassSchedule?style=flat\&color=blue)](https://github.com/EnderWolf006/ElectronClassSchedule/forks) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
+[![Watchers](https://img.shields.io/github/watchers/EnderWolf006/ElectronClassSchedule?style=flat\&color=green)](https://github.com/EnderWolf006/ElectronClassSchedule/watchers) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
+[![Downloads](https://img.shields.io/github/downloads/EnderWolf006/ElectronClassSchedule/total?style=flat\&logo=github)](https://github.com/EnderWolf006/ElectronClassSchedule/releases) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/EnderWolf006/ElectronClassSchedule?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/EnderWolf006/ElectronClassSchedule/issues) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
+[![GitHub Discussions](https://img.shields.io/github/discussions/EnderWolf006/ElectronClassSchedule?style=flat)](https://github.com/EnderWolf006/ElectronClassSchedule/discussions) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
+[![Created At](https://img.shields.io/github/created-at/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule/commits/master) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
+[![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30
 ![GitHub License](https://img.shields.io/github/license/EnderWolf006/ElectronClassSchedule?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20914887202-white?style=flat\&logo=qq)](https://qm.qq.com/q/zq9S3R6zMk)
 
 </div>
 
-> **该项目已经停止更新。** 开发者正在开发 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30 版本，如有需要可前去插眼观望。Awesome-Iwb 会等到 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) ⭐ 158 | 🐛 20 | 🌐 JavaScript | 📅 2025-07-30 版本发展到一定程度后添加进来。
+> **该项目已经停止更新。** 开发者正在开发 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30 版本，如有需要可前去插眼观望。Awesome-Iwb 会等到 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) ⭐ 159 | 🐛 21 | 🌐 JavaScript | 📅 2025-07-30 版本发展到一定程度后添加进来。
 
 ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>
 **软件由一位高三牲制作，含有大量屎山代码，望大家海涵。**
@@ -2217,16 +2217,16 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 
 ![banner](./banner/LanMountainDesktop.png)
 
-[![stars](https://img.shields.io/github/stars/wwiinnddyy/LanMountainDesktop?style=flat\&color=red)](https://github.com/wwiinnddyy/LanMountainDesktop/stargazers) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
-[![forks](https://img.shields.io/github/forks/wwiinnddyy/LanMountainDesktop?style=flat\&color=blue)](https://github.com/wwiinnddyy/LanMountainDesktop/forks) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
-[![Watchers](https://img.shields.io/github/watchers/wwiinnddyy/LanMountainDesktop?style=flat\&color=green)](https://github.com/wwiinnddyy/LanMountainDesktop/watchers) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
-[![Downloads](https://img.shields.io/github/downloads/wwiinnddyy/LanMountainDesktop/total?style=flat\&logo=github)](https://github.com/wwiinnddyy/LanMountainDesktop/releases) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/wwiinnddyy/LanMountainDesktop?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/wwiinnddyy/LanMountainDesktop/issues) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
-[![GitHub Discussions](https://img.shields.io/github/discussions/wwiinnddyy/LanMountainDesktop?style=flat)](https://github.com/wwiinnddyy/LanMountainDesktop/discussions) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
-[![Created At](https://img.shields.io/github/created-at/wwiinnddyy/LanMountainDesktop)](https://github.com/wwiinnddyy/LanMountainDesktop) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/wwiinnddyy/LanMountainDesktop)](https://github.com/wwiinnddyy/LanMountainDesktop/commits/master) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/wwiinnddyy/LanMountainDesktop)](https://github.com/wwiinnddyy/LanMountainDesktop) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
-[![GitHub Top Language](https://img.shields.io/github/languages/top/wwiinnddyy/LanMountainDesktop?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/wwiinnddyy/LanMountainDesktop) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![stars](https://img.shields.io/github/stars/wwiinnddyy/LanMountainDesktop?style=flat\&color=red)](https://github.com/wwiinnddyy/LanMountainDesktop/stargazers) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![forks](https://img.shields.io/github/forks/wwiinnddyy/LanMountainDesktop?style=flat\&color=blue)](https://github.com/wwiinnddyy/LanMountainDesktop/forks) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![Watchers](https://img.shields.io/github/watchers/wwiinnddyy/LanMountainDesktop?style=flat\&color=green)](https://github.com/wwiinnddyy/LanMountainDesktop/watchers) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![Downloads](https://img.shields.io/github/downloads/wwiinnddyy/LanMountainDesktop/total?style=flat\&logo=github)](https://github.com/wwiinnddyy/LanMountainDesktop/releases) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/wwiinnddyy/LanMountainDesktop?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/wwiinnddyy/LanMountainDesktop/issues) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![GitHub Discussions](https://img.shields.io/github/discussions/wwiinnddyy/LanMountainDesktop?style=flat)](https://github.com/wwiinnddyy/LanMountainDesktop/discussions) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![Created At](https://img.shields.io/github/created-at/wwiinnddyy/LanMountainDesktop)](https://github.com/wwiinnddyy/LanMountainDesktop) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/wwiinnddyy/LanMountainDesktop)](https://github.com/wwiinnddyy/LanMountainDesktop/commits/master) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/wwiinnddyy/LanMountainDesktop)](https://github.com/wwiinnddyy/LanMountainDesktop) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
+[![GitHub Top Language](https://img.shields.io/github/languages/top/wwiinnddyy/LanMountainDesktop?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/wwiinnddyy/LanMountainDesktop) ⭐ 34 | 🐛 0 | 🌐 C# | 📅 2026-08-23
 ![GitHub License](https://img.shields.io/github/license/wwiinnddyy/LanMountainDesktop?color=red)
 
 </div>
@@ -2560,7 +2560,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 </div>
 
-EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一键自动登录希沃白板**。它基于 PyAutoGUI 实现图像识别与自动点击，能在希沃一体机或 Windows 电脑上完成账号密码输入与登录操作。支持与 [ClassIsland](https://github.com/ClassIsland/ClassIsland) ⭐ 2,777 | 🐛 350 | 🌐 C# | 📅 2026-09-07 的「自动化」功能联动，实现**按课表自动切换老师账号**，大大提升课堂效率。
+EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一键自动登录希沃白板**。它基于 PyAutoGUI 实现图像识别与自动点击，能在希沃一体机或 Windows 电脑上完成账号密码输入与登录操作。支持与 [ClassIsland](https://github.com/ClassIsland/ClassIsland) ⭐ 2,785 | 🐛 353 | 🌐 C# | 📅 2026-09-07 的「自动化」功能联动，实现**按课表自动切换老师账号**，大大提升课堂效率。
 
 项目已在一台 Windows 10 希沃一体机上长期实测，稳定性良好；如遇误触打断，工具会自动重试。提供 4K 适配、登录前预警提示、日志输出等贴心选项，满足不同教学场景需求。
 
@@ -2929,16 +2929,16 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 ### IslandCaller
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/HUSX100/IslandCaller?style=flat\&color=red)](https://github.com/HUSX100/IslandCaller/stargazers) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-[![forks](https://img.shields.io/github/forks/HUSX100/IslandCaller?style=flat\&color=blue)](https://github.com/HUSX100/IslandCaller/forks) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-[![Watchers](https://img.shields.io/github/watchers/HUSX100/IslandCaller?style=flat\&color=green)](https://github.com/HUSX100/IslandCaller/watchers) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-[![下载s](https://img.shields.io/github/downloads/HUSX100/IslandCaller/total?style=flat\&logo=github)](https://github.com/HUSX100/IslandCaller/releases) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/HUSX100/IslandCaller?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/HUSX100/IslandCaller/issues) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-[![GitHub Discussions](https://img.shields.io/github/discussions/HUSX100/IslandCaller?style=flat)](https://github.com/HUSX100/IslandCaller/discussions) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-[![Created At](https://img.shields.io/github/created-at/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller/commits/master) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-[![GitHub Top Language](https://img.shields.io/github/languages/top/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-30
+[![stars](https://img.shields.io/github/stars/HUSX100/IslandCaller?style=flat\&color=red)](https://github.com/HUSX100/IslandCaller/stargazers) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+[![forks](https://img.shields.io/github/forks/HUSX100/IslandCaller?style=flat\&color=blue)](https://github.com/HUSX100/IslandCaller/forks) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+[![Watchers](https://img.shields.io/github/watchers/HUSX100/IslandCaller?style=flat\&color=green)](https://github.com/HUSX100/IslandCaller/watchers) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+[![下载s](https://img.shields.io/github/downloads/HUSX100/IslandCaller/total?style=flat\&logo=github)](https://github.com/HUSX100/IslandCaller/releases) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/HUSX100/IslandCaller?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/HUSX100/IslandCaller/issues) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+[![GitHub Discussions](https://img.shields.io/github/discussions/HUSX100/IslandCaller?style=flat)](https://github.com/HUSX100/IslandCaller/discussions) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+[![Created At](https://img.shields.io/github/created-at/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller/commits/master) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+[![GitHub Top Language](https://img.shields.io/github/languages/top/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-09-13
 ![GitHub License](https://img.shields.io/github/license/HUSX100/IslandCaller?color=red)
 
 </div>
@@ -2971,16 +2971,16 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 
 ![banner](https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/master/data/assets/icon/secrandom-banner.png)
 
-[![stars](https://img.shields.io/github/stars/SECTL/SecRandom?style=flat\&color=red)](https://github.com/SECTL/SecRandom/stargazers) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
-[![forks](https://img.shields.io/github/forks/SECTL/SecRandom?style=flat\&color=blue)](https://github.com/SECTL/SecRandom/forks) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
-[![Watchers](https://img.shields.io/github/watchers/SECTL/SecRandom?style=flat\&color=green)](https://github.com/SECTL/SecRandom/watchers) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
-[![Downloads](https://img.shields.io/github/downloads/SECTL/SecRandom/total?style=flat\&logo=github)](https://github.com/SECTL/SecRandom/releases) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/SecRandom?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/SECTL/SecRandom/issues) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
-[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/SecRandom?style=flat)](https://github.com/SECTL/SecRandom/discussions) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
-[![创建d At](https://img.shields.io/github/created-at/SECTL/SecRandom)](https://github.com/SECTL/SecRandom) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/SecRandom)](https://github.com/SECTL/SecRandom/commits/master) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/SecRandom)](https://github.com/SECTL/SecRandom) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
-[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/SecRandom)](https://github.com/SECTL/SecRandom) ⭐ 166 | 🐛 6 | 🌐 C# | 📅 2026-09-12
+[![stars](https://img.shields.io/github/stars/SECTL/SecRandom?style=flat\&color=red)](https://github.com/SECTL/SecRandom/stargazers) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
+[![forks](https://img.shields.io/github/forks/SECTL/SecRandom?style=flat\&color=blue)](https://github.com/SECTL/SecRandom/forks) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
+[![Watchers](https://img.shields.io/github/watchers/SECTL/SecRandom?style=flat\&color=green)](https://github.com/SECTL/SecRandom/watchers) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
+[![Downloads](https://img.shields.io/github/downloads/SECTL/SecRandom/total?style=flat\&logo=github)](https://github.com/SECTL/SecRandom/releases) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/SecRandom?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/SECTL/SecRandom/issues) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
+[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/SecRandom?style=flat)](https://github.com/SECTL/SecRandom/discussions) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
+[![创建d At](https://img.shields.io/github/created-at/SECTL/SecRandom)](https://github.com/SECTL/SecRandom) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/SecRandom)](https://github.com/SECTL/SecRandom/commits/master) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/SecRandom)](https://github.com/SECTL/SecRandom) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/SecRandom)](https://github.com/SECTL/SecRandom) ⭐ 165 | 🐛 12 | 🌐 C# | 📅 2026-09-13
 ![GitHub License](https://img.shields.io/github/license/SECTL/SecRandom?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20833875216-white?style=flat\&logo=qq)](https://qm.qq.com/q/iWcfaPHn7W)
 
@@ -3300,16 +3300,16 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
 
 ### 沉浸式噪音监测
 
-[![stars](https://img.shields.io/github/stars/QQHKX/Immersive-clock-monitor?style=flat\&color=red)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
-[![forks](https://img.shields.io/github/forks/QQHKX/Immersive-clock-monitor?style=flat\&color=blue)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
-[![Watchers](https://img.shields.io/github/watchers/QQHKX/Immersive-clock-monitor?style=flat\&color=green)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
-[![Downloads](https://img.shields.io/github/downloads/QQHKX/Immersive-clock-monitor/total?style=flat\&logo=github)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/QQHKX/Immersive-clock-monitor?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
-[![GitHub Discussions](https://img.shields.io/github/discussions/QQHKX/Immersive-clock-monitor?style=flat)](https://github.com/QQHKX/Immersive-clock-monitor/discussions) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
-[![Created At](https://img.shields.io/github/created-at/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor/commits/master) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
-[![GitHub Top Language](https://img.shields.io/github/languages/top/QQHKX/Immersive-clock-monitor?)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![stars](https://img.shields.io/github/stars/QQHKX/Immersive-clock-monitor?style=flat\&color=red)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![forks](https://img.shields.io/github/forks/QQHKX/Immersive-clock-monitor?style=flat\&color=blue)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![Watchers](https://img.shields.io/github/watchers/QQHKX/Immersive-clock-monitor?style=flat\&color=green)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![Downloads](https://img.shields.io/github/downloads/QQHKX/Immersive-clock-monitor/total?style=flat\&logo=github)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/QQHKX/Immersive-clock-monitor?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![GitHub Discussions](https://img.shields.io/github/discussions/QQHKX/Immersive-clock-monitor?style=flat)](https://github.com/QQHKX/Immersive-clock-monitor/discussions) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![Created At](https://img.shields.io/github/created-at/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor/commits/master) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
+[![GitHub Top Language](https://img.shields.io/github/languages/top/QQHKX/Immersive-clock-monitor?)](https://github.com/QQHKX/Immersive-clock-monitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07
 ![GitHub License](https://img.shields.io/github/license/QQHKX/Immersive-clock-monitor?color=red)
 
 </div>
@@ -3588,16 +3588,16 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ![banner](./banner/voicehub-banner.png)
 
-[![stars](https://img.shields.io/github/stars/laoshuikaixue/VoiceHub?style=flat\&color=red)](https://github.com/laoshuikaixue/VoiceHub/stargazers) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
-[![forks](https://img.shields.io/github/forks/laoshuikaixue/VoiceHub?style=flat\&color=blue)](https://github.com/laoshuikaixue/VoiceHub/forks) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
-[![Watchers](https://img.shields.io/github/watchers/laoshuikaixue/VoiceHub?style=flat\&color=green)](https://github.com/laoshuikaixue/VoiceHub/watchers) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
-[![Downloads](https://img.shields.io/github/downloads/laoshuikaixue/VoiceHub/total?style=flat\&logo=github)](https://github.com/laoshuikaixue/VoiceHub/releases) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/laoshuikaixue/VoiceHub?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/laoshuikaixue/VoiceHub/issues) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
-[![GitHub Discussions](https://img.shields.io/github/discussions/laoshuikaixue/VoiceHub?style=flat)](https://github.com/laoshuikaixue/VoiceHub/discussions) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
-[![Created At](https://img.shields.io/github/created-at/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub/commits/master) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
-[![GitHub Top Language](https://img.shields.io/github/languages/top/laoshuikaixue/VoiceHub?)](https://github.com/laoshuikaixue/VoiceHub) ⭐ 169 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-12
+[![stars](https://img.shields.io/github/stars/laoshuikaixue/VoiceHub?style=flat\&color=red)](https://github.com/laoshuikaixue/VoiceHub/stargazers) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
+[![forks](https://img.shields.io/github/forks/laoshuikaixue/VoiceHub?style=flat\&color=blue)](https://github.com/laoshuikaixue/VoiceHub/forks) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
+[![Watchers](https://img.shields.io/github/watchers/laoshuikaixue/VoiceHub?style=flat\&color=green)](https://github.com/laoshuikaixue/VoiceHub/watchers) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
+[![Downloads](https://img.shields.io/github/downloads/laoshuikaixue/VoiceHub/total?style=flat\&logo=github)](https://github.com/laoshuikaixue/VoiceHub/releases) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/laoshuikaixue/VoiceHub?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/laoshuikaixue/VoiceHub/issues) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
+[![GitHub Discussions](https://img.shields.io/github/discussions/laoshuikaixue/VoiceHub?style=flat)](https://github.com/laoshuikaixue/VoiceHub/discussions) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
+[![Created At](https://img.shields.io/github/created-at/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub/commits/master) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
+[![GitHub Top Language](https://img.shields.io/github/languages/top/laoshuikaixue/VoiceHub?)](https://github.com/laoshuikaixue/VoiceHub) ⭐ 169 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-13
 ![GitHub License](https://img.shields.io/github/license/laoshuikaixue/VoiceHub?color=red)
 
 </div>
@@ -3792,16 +3792,16 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ### 国家中小学智慧教育平台电子课本下载工具
 
-[![stars](https://img.shields.io/github/stars/Happycola233/tchMaterial-parser?style=flat\&color=red)](https://github.com/Happycola233/tchMaterial-parser/stargazers) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
-[![forks](https://img.shields.io/github/forks/Happycola233/tchMaterial-parser?style=flat\&color=blue)](https://github.com/Happycola233/tchMaterial-parser/forks) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
-[![Watchers](https://img.shields.io/github/watchers/Happycola233/tchMaterial-parser?style=flat\&color=green)](https://github.com/Happycola233/tchMaterial-parser/watchers) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
-[![Downloads](https://img.shields.io/github/downloads/Happycola233/tchMaterial-parser/total?style=flat\&logo=github)](https://github.com/Happycola233/tchMaterial-parser/releases) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Happycola233/tchMaterial-parser?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/Happycola233/tchMaterial-parser/issues) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
-[![GitHub Discussions](https://img.shields.io/github/discussions/Happycola233/tchMaterial-parser?style=flat)](https://github.com/Happycola233/tchMaterial-parser/discussions) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
-[![Created At](https://img.shields.io/github/created-at/Happycola233/tchMaterial-parser)](https://github.com/Happycola233/tchMaterial-parser) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Happycola233/tchMaterial-parser)](https://github.com/Happycola233/tchMaterial-parser/commits/master) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Happycola233/tchMaterial-parser)](https://github.com/Happycola233/tchMaterial-parser) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Happycola233/tchMaterial-parser?)](https://github.com/Happycola233/tchMaterial-parser) ⭐ 6,605 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![stars](https://img.shields.io/github/stars/Happycola233/tchMaterial-parser?style=flat\&color=red)](https://github.com/Happycola233/tchMaterial-parser/stargazers) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![forks](https://img.shields.io/github/forks/Happycola233/tchMaterial-parser?style=flat\&color=blue)](https://github.com/Happycola233/tchMaterial-parser/forks) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![Watchers](https://img.shields.io/github/watchers/Happycola233/tchMaterial-parser?style=flat\&color=green)](https://github.com/Happycola233/tchMaterial-parser/watchers) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![Downloads](https://img.shields.io/github/downloads/Happycola233/tchMaterial-parser/total?style=flat\&logo=github)](https://github.com/Happycola233/tchMaterial-parser/releases) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Happycola233/tchMaterial-parser?query=is%3Aopen\&label=issues\&color=purple)](https://github.com/Happycola233/tchMaterial-parser/issues) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![GitHub Discussions](https://img.shields.io/github/discussions/Happycola233/tchMaterial-parser?style=flat)](https://github.com/Happycola233/tchMaterial-parser/discussions) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![Created At](https://img.shields.io/github/created-at/Happycola233/tchMaterial-parser)](https://github.com/Happycola233/tchMaterial-parser) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Happycola233/tchMaterial-parser)](https://github.com/Happycola233/tchMaterial-parser/commits/master) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Happycola233/tchMaterial-parser)](https://github.com/Happycola233/tchMaterial-parser) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Happycola233/tchMaterial-parser?)](https://github.com/Happycola233/tchMaterial-parser) ⭐ 6,612 | 🐛 7 | 🌐 Python | 📅 2026-09-09
 ![GitHub License](https://img.shields.io/github/license/Happycola233/tchMaterial-parser?color=red)
 
 </div>
@@ -4469,4 +4469,4 @@ ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
