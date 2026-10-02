@@ -11,15 +11,15 @@
           "repo_info": {
             "archived": false,
             "description": "希沃克星Seewo Killer：冰点破解、锁屏破解、游戏和制裁！",
-            "homepage": "https://whstu.dpdns.org/download/seewokiller/",
+            "homepage": "https://seewokiller.whstu.dpdns.org/web/",
             "id": 844025870,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-21T11:02:08Z",
+            "last_commit": "2026-10-02T09:13:53Z",
             "open_issues": 1,
             "owner": "whstu",
             "repo": "SeewoKiller",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "c",
               "seewo",
@@ -159,7 +159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:31:13.505Z",
+    "last_updated": "2026-10-02T20:07:48.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级一体机新玩法！ --- ✨ Useful Open-Sources Softwares & Tutorials for Iwb Devices (Bytello/MAXHUB/HiteVision)",
@@ -168,7 +168,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-06-07T03:13:07Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "awesome-iwb",
       "repo": "awesome-iwb",
       "stars": 550,
