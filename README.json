@@ -17,10 +17,10 @@
                     "description": "希沃克星Seewo Killer：冰点破解、锁屏破解、游戏和制裁！",
                     "homepage": "https://seewokiller.whstu.dpdns.org/web/",
                     "id": 844025870,
-                    "language": "C++",
+                    "language": "Inno Setup",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-05T02:09:02Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-06T07:20:57Z",
+                    "open_issues": 3,
                     "owner": "whstu",
                     "repo": "SeewoKiller",
                     "stars": 45,
@@ -111,7 +111,7 @@
                     "open_issues": 0,
                     "owner": "lh11117",
                     "repo": "LemonxNote",
-                    "stars": 5,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:07:08.116Z"
@@ -153,7 +153,7 @@
                     "open_issues": 0,
                     "owner": "CNwenwen",
                     "repo": "SeewoHUB",
-                    "stars": 7,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:07:08.116Z"
@@ -173,7 +173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:11:29.215Z",
+    "last_updated": "2026-10-06T10:44:56.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级一体机新玩法！ --- ✨ Useful Open-Sources Softwares & Tutorials for Iwb Devices (Bytello/MAXHUB/HiteVision)",
